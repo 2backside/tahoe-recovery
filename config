@@ -1,0 +1,4 @@
+Host plggStore
+    HostName github.com
+    User git
+    IdentityFile C:/Users/luizz/.ssh/plggStore
